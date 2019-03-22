@@ -1,0 +1,1 @@
+ip link show enp3s0 | awk '/ether /' | cut -d ' ' -f 6

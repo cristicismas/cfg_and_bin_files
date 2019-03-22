@@ -1,0 +1,43 @@
+[2019-03-17 16:05:31.827] [sharedprocess] [info] main {"machineId":"3f57af623050e1783abfd973677394bd70ab0b9bb21d3fd9efe14e20a7be0ec2"}
+[2019-03-17 16:05:31.979] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-17 16:05:31.996] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-17 16:05:32.006] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-17 16:05:32.007] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-17 16:05:32.407] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-17 16:05:55.527] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-17 16:05:55.530] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-17 16:05:55.542] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-17 16:05:55.548] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-17 16:05:57.848] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-17 16:06:11.843] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-03-17 16:08:18.934] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-17 16:08:36.542] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-17 16:08:36.547] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-17 16:08:36.550] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-17 16:08:36.553] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-17 16:08:36.568] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-17 16:08:36.572] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-17 16:08:36.575] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-17 16:08:46.279] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2019-03-17 16:08:46.285] [sharedprocess] [info] Scanned user extensions: 12
+[2019-03-17 16:08:46.878] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /tmp/13fa8e70-76f6-45fc-8973-cb99f316169f
+[2019-03-17 16:08:49.601] [sharedprocess] [info] Extracted extension to /home/cristi/.vscode-oss/extensions/.esbenp.prettier-vscode-1.8.1: esbenp.prettier-vscode
+[2019-03-17 16:08:49.601] [sharedprocess] [info] Renamed to /home/cristi/.vscode-oss/extensions/esbenp.prettier-vscode-1.8.1
+[2019-03-17 16:08:49.602] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2019-03-17 16:08:49.618] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2019-03-17 16:10:57.868] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-17 16:15:57.887] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-17 16:20:57.919] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-17 16:25:57.944] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-17 16:30:57.975] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-17 16:35:57.994] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-17 16:40:58.015] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-17 16:45:58.042] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-17 16:50:58.065] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-17 16:55:58.084] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-17 17:00:58.110] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-17 17:05:58.124] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-17 17:10:58.145] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-17 17:15:58.170] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-17 17:20:58.196] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-17 17:25:58.218] [sharedprocess] [info] Scanned user extensions: 13

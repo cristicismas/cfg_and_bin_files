@@ -1,0 +1,12 @@
+# pacman
+alias update="sudo pacman -Syyu"
+alias install="sudo pacman -Syu"
+alias search="yaourt -S"
+
+# git
+alias gpsh="git push origin master"
+alias gpshf="git push -ff origin master"
+
+# dual-boot
+alias update-grub="sudo grub-mkconfig -o /boot/grub/grub.cfg"
+

@@ -1,0 +1,9 @@
+# GIMP gimp-rect-select-tool options
+
+(feather yes)
+(feather-radius 0.000000)
+(highlight yes)
+(round-corners yes)
+(corner-radius 9.100000)
+
+# end of gimp-rect-select-tool options

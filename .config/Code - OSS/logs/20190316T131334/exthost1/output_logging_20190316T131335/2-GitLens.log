@@ -1,0 +1,1 @@
+[2019-03-16 11:44:48:555] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false show HEAD:./client/src/services/api.js --): 

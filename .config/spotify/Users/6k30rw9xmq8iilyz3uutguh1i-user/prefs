@@ -1,0 +1,5 @@
+gaia.attached_device_id="11b00b82907896380c8ae3099808701bc163136d"
+audio.sync_bitrate_enumeration=4
+audio.normalize_v2=false
+gaia.known_zeroconf="{\"11b00b82907896380c8ae3099808701bc163136d\":{\"known\":false,\"popularity\":1,\"prio\":\"connect\",\"shown\":0}}"
+audio.play_bitrate_enumeration=4

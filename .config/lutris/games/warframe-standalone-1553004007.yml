@@ -1,0 +1,19 @@
+game:
+  arch: win64
+  exe: /home/cristi/Games/warframe/drive_c/Program Files/Warframe/Warframe-Launcher.bat
+  prefix: /home/cristi/Games/warframe
+system:
+  disable_runtime: true
+  env:
+    DXVK_HUD: '0'
+    PBA_ENABLE: '0'
+    __GL_SHADER_DISK_CACHE: '1'
+    __GL_SHADER_DISK_CACHE_PATH: /home/cristi/Games/warframe
+    __GL_THREADED_OPTIMIZATIONS: '1'
+    mesa_glthread: 'true'
+  pulse_latency: true
+wine:
+  dxvk: true
+  dxvk_version: '0.90'
+  esync: true
+  version: esync-staging-pba-3.18-x86_64

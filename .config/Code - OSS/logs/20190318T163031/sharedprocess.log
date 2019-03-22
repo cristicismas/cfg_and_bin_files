@@ -1,0 +1,15 @@
+[2019-03-18 16:30:35.450] [sharedprocess] [info] main {"machineId":"3f57af623050e1783abfd973677394bd70ab0b9bb21d3fd9efe14e20a7be0ec2"}
+[2019-03-18 16:30:35.649] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-18 16:30:35.663] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-18 16:30:35.677] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-18 16:30:35.679] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-18 16:30:35.812] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-18 16:30:37.149] [sharedprocess] [info] Installing extension: equinusocio.vsc-material-theme
+[2019-03-18 16:30:37.158] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-18 16:30:37.668] [sharedprocess] [info] Downloaded extension: equinusocio.vsc-material-theme /tmp/b5dd34b9-c53a-4ccd-a17b-66e4c0334258
+[2019-03-18 16:30:37.733] [sharedprocess] [info] Extracted extension to /home/cristi/.vscode-oss/extensions/.equinusocio.vsc-material-theme-2.8.0: equinusocio.vsc-material-theme
+[2019-03-18 16:30:37.733] [sharedprocess] [info] Renamed to /home/cristi/.vscode-oss/extensions/equinusocio.vsc-material-theme-2.8.0
+[2019-03-18 16:30:37.733] [sharedprocess] [info] Installation completed. equinusocio.vsc-material-theme
+[2019-03-18 16:30:37.737] [sharedprocess] [info] Extensions installed successfully: equinusocio.vsc-material-theme
+[2019-03-18 16:31:15.460] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-03-18 16:35:35.836] [sharedprocess] [info] Scanned user extensions: 13

@@ -1,0 +1,20 @@
+[2019-03-19 14:17:11.899] [sharedprocess] [info] main {"machineId":"3f57af623050e1783abfd973677394bd70ab0b9bb21d3fd9efe14e20a7be0ec2"}
+[2019-03-19 14:17:12.017] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-19 14:17:12.027] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-19 14:17:12.036] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-19 14:17:12.037] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-19 14:17:12.049] [sharedprocess] [info] Deleted from disk equinusocio.vsc-material-theme /home/cristi/.vscode-oss/extensions/equinusocio.vsc-material-theme-2.7.0
+[2019-03-19 14:17:12.329] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-19 14:17:13.342] [sharedprocess] [info] Installing extension: equinusocio.vsc-material-theme
+[2019-03-19 14:17:13.357] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-19 14:17:13.897] [sharedprocess] [info] Downloaded extension: equinusocio.vsc-material-theme /tmp/1c3cb312-acbf-4351-a8cb-95d763141840
+[2019-03-19 14:17:13.948] [sharedprocess] [info] Extracted extension to /home/cristi/.vscode-oss/extensions/.equinusocio.vsc-material-theme-2.8.1: equinusocio.vsc-material-theme
+[2019-03-19 14:17:13.948] [sharedprocess] [info] Renamed to /home/cristi/.vscode-oss/extensions/equinusocio.vsc-material-theme-2.8.1
+[2019-03-19 14:17:13.949] [sharedprocess] [info] Installation completed. equinusocio.vsc-material-theme
+[2019-03-19 14:17:13.954] [sharedprocess] [info] Extensions installed successfully: equinusocio.vsc-material-theme
+[2019-03-19 14:17:51.908] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-03-19 14:18:38.052] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-19 14:18:38.058] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-19 14:18:40.519] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-19 14:23:40.543] [sharedprocess] [info] Scanned user extensions: 13
+[2019-03-19 14:28:40.569] [sharedprocess] [info] Scanned user extensions: 13

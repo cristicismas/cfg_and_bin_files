@@ -1,0 +1,15 @@
+#!/bin/zsh
+
+# Exit script on error
+set -e
+
+if nmap -p22 localhost -oG - | grep 22/open; then
+# Stop ssh connection
+    sudo systemctl stop sshd.socket
+    echo 'SSH connection STOPPED.'
+else
+# Start ssh connection
+    sudo systemctl start sshd.socket
+    echo 'SSH connection OPENED.'
+fi
+

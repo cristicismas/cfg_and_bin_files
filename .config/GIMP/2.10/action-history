@@ -1,0 +1,18 @@
+# GIMP action-history
+
+(history-item "layers-new" 0)
+(history-item "edit-fill-fg" 0)
+(history-item "view-rotate-345" 1)
+(history-item "image-new" 0)
+(history-item "dialogs-preferences" 0)
+(history-item "layers-new-group" 0)
+(history-item "layers-delete" 0)
+(history-item "tools-rect-select" 0)
+(history-item "images-raise-views" 0)
+(history-item "edit-clear" 0)
+(history-item "layers-edit" 0)
+(history-item "view-rotate-90" 0)
+(history-item "view-rotate-reset" 0)
+(history-item "file-quit" 1)
+
+# end of action-history
