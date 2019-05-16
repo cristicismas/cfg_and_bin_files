@@ -1,13 +1,6 @@
 #!/bin/zsh
 
-. ~/.zsh_aliases
-
-# add opt to path
-export PATH="$PATH:/opt/"
-
-# add npm global packages
-export PATH="$PATH:/usr/lib/node_modules/"
-
+source ~/.zsh_aliases
 # catch non-zsh and non-interactive shells
 [[ $- == *i* && $ZSH_VERSION ]] && SHELL=/usr/bin/zsh || return 0
 
